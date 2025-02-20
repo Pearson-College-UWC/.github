@@ -1,2 +1,2 @@
 # .github
-Information about Pearson College UWC's Creative Tech Department
+Information, Discussions & More about Pearson College UWC
